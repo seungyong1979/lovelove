@@ -1,0 +1,10 @@
+사랑어린학교 2027 새식구모심
+
+Render Web Service: Build Command = npm install, Start Command = npm start.
+Render Static Site: Build Command = npm run build, Publish Directory = .
+배포 브랜치: main. 루트 디렉터리: 저장소 루트.
+환경변수나 외부 패키지는 필요하지 않습니다.
+
+콘텐츠와 사진: 제공된 학교 모집 안내문.
+원서 배부 시작일: 2026년 11월 7일 (학교 측 확인).
+문의 버튼은 전화 링크이며 별도 개인정보를 수집하지 않습니다.
