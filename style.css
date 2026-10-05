@@ -5,3 +5,5 @@
 .brand{display:inline-flex;align-items:center;gap:10px}.school-symbol{display:block;width:31px;height:38px;object-fit:contain;flex-shrink:0}@media(max-width:600px){.brand{gap:8px}.school-symbol{width:27px;height:34px}}
 
 .opening-symbol{display:block;width:44px;height:54px;object-fit:contain;margin:28px auto 0}
+
+.book-section{grid-template-columns:1fr;gap:32px}.book-intro>p:last-child{margin-bottom:0}.book-card{display:grid;grid-template-columns:minmax(180px,280px) minmax(0,1fr);gap:44px;align-items:center}.book-cover{margin:0}.book-cover img{display:block;width:100%;height:auto;border-radius:2px}.book-details{min-width:0}@media(max-width:600px){.book-card{grid-template-columns:1fr;gap:28px}.book-cover{width:min(100%,240px);margin:0 auto}.book-details h3{font-size:28px}}
