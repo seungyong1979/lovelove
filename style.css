@@ -12,3 +12,5 @@
 .book-cover img{clip-path:polygon(3.35% 2.4%,11.34% 1.28%,90.46% 7.66%,90.46% 92.66%,11.34% 99.36%,3.35% 98.09%);border-radius:0}
 
 @media(max-width:600px){.hero h1{font-size:clamp(50px,16vw,68px)}}
+
+.hero-actions{display:flex;flex-direction:column;align-items:flex-start;gap:12px}.hero-actions .button{max-width:100%;gap:14px}.hero-actions>a[href="#admission"]{background:transparent;color:var(--ink);border:1px solid var(--ink);padding:10px 20px;font-size:14px}.registration-button{background:#a54c2a;color:#fff;justify-content:center}.contact-buttons{flex-wrap:wrap}.contact-buttons .registration-button{background:#ead5a6;color:#263e31}@media(max-width:600px){.hero-actions .registration-button{width:100%;padding:15px 10px;font-size:14px}}
